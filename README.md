@@ -3,6 +3,7 @@
 https://book-search-engine-anhv.herokuapp.com/
 
 ## Link to walk-thru video:
+https://drive.google.com/file/d/1FtWwS0vzZh02VFiEtANCGEjfL7PCw2s5/view
 
 ## Objectives:
 GIVEN a book search engine</br>
